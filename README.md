@@ -1,1 +1,1 @@
-#  Blender-Camera-Render-Clipping-View.py
+#  Blender-Camera-Render-Clipping-View
